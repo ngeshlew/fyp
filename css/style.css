@@ -28,19 +28,22 @@
 12. Inner Pages Styles.
 13. Responsive Styles.
 -------------------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Lato');
 @import url("../fonts/hostino.css");
 /*------------------------------------------------------------------
 	1. General Styles
 -------------------------------------------------------------------*/
 html,body{
     height: 100%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
 }
 *,body{
     -webkit-transition: all 0.3s ease 0.0s;
     -moz-transition: all 0.3s ease 0.0s;
     transition: all 0.3s ease 0.0s;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
@@ -246,12 +249,13 @@ body.fullpage{
 .signin-signup-form .form-text input{
     width: 100%;
     padding: 15px 30px;
-    border-radius: 100px;
+    border-radius: 200px;
     text-align: left;
     background-color: #ffffff;
     border: 0;
     font-size: 15px;
-    font-weight: 700;
+    font-family: 'Lato',sans-serif;
+    font-weight: 100;
     color: #0397ff;
     outline: none;
     -webkit-box-shadow: 0 6px 12px 0 rgba(18, 113, 179, 0.14);
@@ -835,13 +839,14 @@ body.fullpage{
     max-width: 612px;
 }
 #main-slider .slide .big-text-holder{
-    font-weight: 700;
-    font-size: 30px;
+    font-weight: 500;
+    font-size: 40px;
     color: #7f97ad;
-    margin-bottom: 10px;
 }
 #main-slider .slide .text-holder{
-    font-size: 18px;
+    font-size: 26px;
+    font-weight: 100;
+    font-family: 'Lato', sans-serif;
     color: #8094a1;
     margin-bottom: 20px;
 }
@@ -992,6 +997,8 @@ a.white-green-shadow-button:focus{
 }
 #features .mfeature-box .mfeature-details {
     font-size: 15px;
+    font-weight: 100;
+    font-family: 'Lato' , sans-serif;
     color: #678ea6;
     position: relative;
 }
@@ -1439,7 +1446,8 @@ a.light-blue-button:focus{
 }
 #apps .apps-holder .app-details div[class^="app-details"] .app-text{
     font-size: 14px;
-    font-weight: 600;
+    font-family: 'Lato', sans-serif;
+    font-weight: 100;
     color: #899cbf;
 }
 
@@ -1586,7 +1594,7 @@ a.light-blue-button:focus{
 	9. More Features Section Styles
 -------------------------------------------------------------------*/
 #more-features{
-    background-color: #ffffff;
+    background-color: #f7f8fa;
     padding-top: 80px;
     padding-bottom: 60px;
     text-align: center;
