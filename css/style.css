@@ -776,6 +776,10 @@ body.fullpage{
     -moz-box-shadow: 0 13px 38px 0 rgba(18, 113, 179, 0.19);
     box-shadow: 0 13px 38px 0 rgba(18, 113, 179, 0.19);
 }
+.JopwellCollection_image12 {
+  object-fit: contain;
+}
+
 .domain-search-holder #domain-search:hover input[type="text"],
 .domain-search-holder #domain-search:focus input[type="text"]{
     -webkit-box-shadow: 0 16px 48px 0 rgba(18, 113, 179, 0.19);
