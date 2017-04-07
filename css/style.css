@@ -48,6 +48,12 @@ html,body{
 *, input, button {
     outline:none;
 }
+.container-fluid{
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+    margin-right: auto;
+    margin-left: auto;
+}
 .rtl-cols div[class^="col-"] {
     float: right;
 }
@@ -1404,7 +1410,7 @@ a.light-blue-button:focus{
     -moz-box-shadow: 0 0 10px 0 rgba(218, 231, 255, 0.74);
     box-shadow: 0 0 10px 0 rgba(218, 231, 255, 0.74);
     position: relative;
-    min-height: 400px;
+    min-height: 500px;
 }
 
 #apps .apps-holder .app-details div[class^="app-details"]{
@@ -1773,8 +1779,9 @@ a.white-less-shadow-button:focus{
 -------------------------------------------------------------------*/
 #footer{
     background-color: #00d85f;
-    padding-top: 60px;
-    padding-bottom: 50px;
+    color: #f6f6f6;
+    padding-top: 20px;
+    padding-bottom: 20px;
     text-align: center;
 }
 #footer .footer-menu-holder{
