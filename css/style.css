@@ -520,7 +520,6 @@ body.fullpage{
 .navbar-default .navbar-nav>li>a {
     color: #7f888f;
     font-size: 14px;
-    font-weight: bold;
     position: relative;
     padding: 38px 16px;
 }
@@ -551,7 +550,6 @@ body.fullpage{
     margin-top: 31px;
     margin-bottom: 13px;
     margin-left: 15px;
-    font-weight: bold;
     font-size: 13px;
     -webkit-box-shadow: 0 5px 7px 0 rgba(0, 216, 95, 0.38);
     -moz-box-shadow: 0 5px 7px 0 rgba(0, 216, 95, 0.38);
@@ -891,7 +889,7 @@ body.fullpage{
 #info .row-title{
     color: #ffffff;
     font-size: 25px;
-    font-weight: bold;
+    
     position: relative;
     z-index: 10;
 }
@@ -938,7 +936,7 @@ a.white-green-shadow-button:focus{
 #features .row-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
 }
 #features .mfeature-box{
@@ -1030,7 +1028,7 @@ a.light-blue-button:focus{
 #pricing .row-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
 }
 #pricing .pricing-box{
@@ -1339,7 +1337,7 @@ a.light-blue-button:focus{
 #apps .row-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1464,7 +1462,7 @@ a.light-blue-button:focus{
 #testimonials .row-title {
     color: #ffffff;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1603,7 +1601,7 @@ a.light-blue-button:focus{
 #more-features .row-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1667,7 +1665,7 @@ a.light-blue-button:focus{
 #more-features-dark .row-title {
     color: #ffffff;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1903,7 +1901,7 @@ a.white-less-shadow-button:focus{
 #page-head .page-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     position: relative;
     z-index: 10;
 }
@@ -2020,7 +2018,7 @@ a.white-less-shadow-button:focus{
 #more-info .row-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     position: relative;
     z-index: 10;
 }
@@ -2168,7 +2166,7 @@ a.white-less-shadow-button:focus{
 #team .row-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -2346,7 +2344,7 @@ a.white-less-shadow-button:focus{
 #articles .row-title {
     color: #6c84af;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 30px;
 }
 #articles .article-summary{
@@ -2646,7 +2644,7 @@ a.white-less-shadow-button:focus{
 #domain-pricing .row-title {
     color: #ffffff;
     font-size: 25px;
-    font-weight: bold;
+    
     margin-bottom: 60px;
 }
 #domain-pricing .domain-lists-holder{
