@@ -28,7 +28,30 @@
 12. Inner Pages Styles.
 13. Responsive Styles.
 -------------------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
+@font-face {
+  font-family: 'Proximanova light';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/58868bcd2ef4daaf0f072900/5888204d45b15b0527f951c7_ProximaNova-Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proximanova regular';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/58868bcd2ef4daaf0f072900/58882027df653d342d043883_ProximaNova-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proximanova semibold';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/58868bcd2ef4daaf0f072900/58881f2486b107d01600a9c2_ProximaNova-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Proximanova';
+  src: url('https://daks2k3a4ib2z.cloudfront.net/58868bcd2ef4daaf0f072900/58882ffe707f085c6e8f3a0e_ProximaNova-LightItalic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
 @import url("../fonts/hostino.css");
 /*------------------------------------------------------------------
 	1. General Styles
@@ -40,7 +63,7 @@ html,body{
     -webkit-transition: all 0.3s ease 0.0s;
     -moz-transition: all 0.3s ease 0.0s;
     transition: all 0.3s ease 0.0s;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Proximanova-light', sans-serif;
     font-weight: 300;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
@@ -833,6 +856,8 @@ body.fullpage{
     max-width: 612px;
 }
 #main-slider .slide .big-text-holder{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     margin-top: 10px;
     margin-bottom: 10px;
     padding-right: auto;
@@ -886,8 +911,11 @@ body.fullpage{
     opacity: 0.05;
 }
 #info .row-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #ffffff;
-    font-size: 25px;
+    font-size: 26px;
+    line-height: 36px;
     position: relative;
     z-index: 10;
 }
@@ -932,9 +960,11 @@ a.white-green-shadow-button:focus{
     text-align: center;
 }
 #features .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
 }
 #features .mfeature-box{
@@ -1024,9 +1054,11 @@ a.light-blue-button:focus{
     text-align: center;
 }
 #pricing .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
 }
 #pricing .pricing-box{
@@ -1333,9 +1365,11 @@ a.light-blue-button:focus{
     text-align: center;
 }
 #apps .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1375,12 +1409,16 @@ a.light-blue-button:focus{
     width: 40px;
 }
 #apps .apps-holder .app-icon-holder .app-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #d3ddf0;
     font-size: 26px;
     line-height: 36px;
     position: relative;
 }
 #apps .apps-holder .app-icon-holder.opened .app-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #34a8ff;
 }
 #apps .apps-holder .app-icon-holder .app-title:after{
@@ -1434,6 +1472,8 @@ a.light-blue-button:focus{
     transform: scale(1);
 }
 #apps .apps-holder .app-details div[class^="app-details"] .app-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     font-size: 26px;
     line-height: 36px;
     color: #34a8ff;
@@ -1459,9 +1499,11 @@ a.light-blue-button:focus{
     overflow: hidden;
 }
 #testimonials .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #ffffff;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1598,9 +1640,11 @@ a.light-blue-button:focus{
     overflow: hidden;
 }
 #more-features .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1641,6 +1685,8 @@ a.light-blue-button:focus{
     width: 100%;
 }
 #more-features .mfeature-box .mfeature-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     font-size: 17px;
     font-weight: 300;
     color: #34a8ff;
@@ -1662,9 +1708,11 @@ a.light-blue-button:focus{
     overflow: hidden;
 }
 #more-features-dark .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #ffffff;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -1696,8 +1744,9 @@ a.light-blue-button:focus{
     width: 100%;
 }
 #more-features-dark .mfeature-box .mfeature-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     font-size: 17px;
-    font-weight: 300;
     color: #ffffff;
     margin-bottom: 10px;
     position: relative;
@@ -1907,6 +1956,8 @@ a.white-less-shadow-button:focus{
     overflow: hidden;
 }
 #page-head .page-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
     font-size: 25px;
     
@@ -2024,9 +2075,11 @@ a.white-less-shadow-button:focus{
     text-align: center;
 }
 #more-info .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     position: relative;
     z-index: 10;
 }
@@ -2065,6 +2118,8 @@ a.white-less-shadow-button:focus{
     width: 100%;
 }
 #more-info .info-box .info-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     font-size: 16px;
     font-weight: 300;
     color: #34a8ff;
@@ -2172,9 +2227,11 @@ a.white-less-shadow-button:focus{
     overflow: hidden;
 }
 #team .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
     position: relative;
     z-index: 10;
@@ -2214,6 +2271,8 @@ a.white-less-shadow-button:focus{
     margin-bottom: 3px;
 }
 #team .person-box .person-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #3f5d6f;
     font-size: 15px;
     opacity: 0.7;
@@ -2266,11 +2325,15 @@ a.white-less-shadow-button:focus{
     color: #ffffff;
 }
 #recent-article .article-summary .article-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     padding-bottom: 15px;
     margin-bottom: 15px;
     position: relative;
 }
 #recent-article .article-summary .article-title a{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #ffffff;
     font-size: 24px;
     font-weight: 300;
@@ -2350,9 +2413,11 @@ a.white-less-shadow-button:focus{
     text-align: center;
 }
 #articles .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 30px;
 }
 #articles .article-summary{
@@ -2370,12 +2435,16 @@ a.white-less-shadow-button:focus{
 }
 
 #articles .article-summary .article-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     padding-bottom: 13px;
     margin-bottom: 13px;
     text-align: left;
     position: relative;
 }
 #articles .article-summary .article-title a{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #34a8ff;
     font-size: 16px;
     font-weight: 300;
@@ -2543,6 +2612,8 @@ a.white-less-shadow-button:focus{
     opacity: 1;
 }
 #contact-info .info-box .info-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #0397ff;
     font-weight: 300;
     font-size: 19px;
@@ -2636,9 +2707,10 @@ a.white-less-shadow-button:focus{
 }
 
 #domainsearch .b-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #6c84af;
     font-size: 30px;
-    font-weight: 300;
     letter-spacing: -1px;
     line-height: 38px;
 }
@@ -2650,9 +2722,11 @@ a.white-less-shadow-button:focus{
     background-color: #0397ff;
 }
 #domain-pricing .row-title {
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     color: #ffffff;
-    font-size: 25px;
-    
+    font-size: 26px;
+    line-height: 36px;
     margin-bottom: 60px;
 }
 #domain-pricing .domain-lists-holder{
@@ -2738,7 +2812,8 @@ a.white-less-shadow-button:focus{
     text-decoration: none;
 }
 #post-content .post .post-entry a .post-title{
-    font-weight: 300;
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     font-size: 35px;
     line-height: 43px;
     color: #5f6576;
@@ -2786,7 +2861,8 @@ a.white-less-shadow-button:focus{
     margin-right: 10px;
 }
 #post-content #post-body .post .post-title{
-    font-weight: 300;
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     font-size: 24px;
     color: #5f6576;
     margin-bottom: 20px;
@@ -2811,10 +2887,11 @@ a.white-less-shadow-button:focus{
     margin-bottom: 50px;
 }
 #post-content #sidebar .widget-title{
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     margin-top: 0;
     margin-bottom: 20px;
     font-size: 18px;
-    font-weight: 300;
     padding-bottom: 10px;
     border-bottom: 1px solid #e1e1e1;
     color: #5f6576;
@@ -2875,7 +2952,8 @@ a.white-less-shadow-button:focus{
     display: block;
 }
 #post-content #sidebar #popular-posts.widget .item .info .title a{
-    font-weight: 300;
+    font-family: 'Proximanova-regular', sans-serif;
+    font-weight: 400;
     font-size: 14px;
     color: #5f6576;
     text-decoration: none;
