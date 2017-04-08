@@ -1469,6 +1469,8 @@ a.light-blue-button:focus{
 }
 #apps .apps-holder .app-details div[class^="app-details"].show-details{
     opacity: 1;
+    left: 0;
+    top: 0;
     -webkit-transform: scale(1);
     -moz-transform: scale(1);
     transform: scale(1);
@@ -3174,7 +3176,7 @@ a.white-less-shadow-button:focus{
         width: 100%;
     }
     #apps .apps-holder .app-icon-holder .app-title{
-        font-size: 13px;
+        font-size: 16px;
     }
     
     #apps .apps-holder .app-icon-holder .app-icon {
@@ -3325,7 +3327,7 @@ a.white-less-shadow-button:focus{
         width: 100%;
     }
     #apps .apps-holder .app-icon-holder .app-title{
-        font-size: 11px;
+        font-size: 16px;
     }
     #apps .apps-holder .app-icon-holder .app-icon {
         margin-bottom: 5px;
