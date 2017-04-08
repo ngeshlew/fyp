@@ -839,8 +839,8 @@ body.fullpage{
 #main-slider .slide .big-text-holder{
     margin-top: 10px;
     margin-bottom: 10px;
-    padding-right: 186px;
-    padding-left: 186px;
+    padding-right: auto;
+    padding-left: auto;
     font-family: 'Montserrat',sans-serif;
     color: #4c525a;
     font-size: 30px;
