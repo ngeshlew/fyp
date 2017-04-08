@@ -1384,8 +1384,8 @@ a.light-blue-button:focus{
 }
 #apps .apps-holder .app-icon-holder .app-title{
     color: #d3ddf0;
-    font-size: 16px;
-    font-weight: 300;
+    font-size: 26px;
+    line-height: 36px;
     position: relative;
 }
 #apps .apps-holder .app-icon-holder.opened .app-title{
@@ -1449,9 +1449,8 @@ a.light-blue-button:focus{
     position: relative;
 }
 #apps .apps-holder .app-details div[class^="app-details"] .app-text{
-    font-size: 14px;
-    font-family: 'Lato', sans-serif;
-    font-weight: 100;
+    font-size: 18px;
+    line-height: 29px;
     color: #899cbf;
 }
 
