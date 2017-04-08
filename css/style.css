@@ -1442,13 +1442,15 @@ a.light-blue-button:focus{
     transform: scale(1);
 }
 #apps .apps-holder .app-details div[class^="app-details"] .app-title{
-    font-size: 17px;
+    font-size: 26px;
+    line-height: 36px;
     color: #34a8ff;
-    font-weight: 300;
     margin-bottom: 10px;
     position: relative;
 }
 #apps .apps-holder .app-details div[class^="app-details"] .app-text{
+    margin-top: 25px;
+    margin-bottom: 20px;
     font-size: 18px;
     line-height: 29px;
     color: #899cbf;
