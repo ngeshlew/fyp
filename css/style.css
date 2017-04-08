@@ -28,7 +28,7 @@
 12. Inner Pages Styles.
 13. Responsive Styles.
 -------------------------------------------------------------------*/
-@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url("../fonts/hostino.css");
 /*------------------------------------------------------------------
@@ -37,13 +37,13 @@
 html,body{
     height: 100%;
     font-family: 'Lato', sans-serif;
-    font-weight: 100;
 }
 *,body{
     -webkit-transition: all 0.3s ease 0.0s;
     -moz-transition: all 0.3s ease 0.0s;
     transition: all 0.3s ease 0.0s;
     font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
@@ -845,7 +845,7 @@ body.fullpage{
     color: #4c525a;
     font-size: 30px;
     line-height: 1.41em;
-    font-weight: 400;
+    font-weight: 300;
     text-align: center;
 }
 #main-slider .slide .text-holder{
