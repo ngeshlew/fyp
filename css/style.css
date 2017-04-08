@@ -3119,7 +3119,7 @@ a.white-less-shadow-button:focus{
 }
 @media (max-width: 768px) {
     .logo {
-        margin-top: 10px;
+        margin-top: 5px;
     }
     .navbar-default .navbar-nav>li>a {
         padding: 10px 16px;
