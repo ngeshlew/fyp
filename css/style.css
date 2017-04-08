@@ -993,18 +993,18 @@ a.white-green-shadow-button:focus{
     width: 100%;
 }
 #features .mfeature-box .mfeature-title {
-    font-size: 17px;
+    font-size: 26px;
+    line-height: 36px;
     color: #34a8ff;
-    font-weight: 300;
     margin-bottom: 10px;
     position: relative;
 }
 #features .mfeature-box .mfeature-details {
-    font-size: 15px;
-    font-weight: 100;
-    font-family: 'Lato' , sans-serif;
-    color: #678ea6;
-    position: relative;
+    margin-top: 25px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    line-height: 29px;
+    color: #899cbf;
 }
 
 a.light-blue-button{
