@@ -525,7 +525,7 @@ body.fullpage{
 -------------------------------------------------------------------*/
 .logo{
     width: 97px;
-    margin-top: 20px
+    margin-top: 10px
 }
 #mainNav{
     background-color: #ffffff;
@@ -3119,7 +3119,7 @@ a.white-less-shadow-button:focus{
 }
 @media (max-width: 768px) {
     .logo {
-        margin-top: 6px;
+        margin-top: 10px;
     }
     .navbar-default .navbar-nav>li>a {
         padding: 10px 16px;
