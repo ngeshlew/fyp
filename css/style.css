@@ -845,7 +845,7 @@ body.fullpage{
     color: #4c525a;
     font-size: 30px;
     line-height: 1.41em;
-    font-weight: 300;
+    font-weight: 300 !important;
     text-align: center;
 }
 #main-slider .slide .text-holder{
