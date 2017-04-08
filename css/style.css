@@ -29,21 +29,19 @@
 13. Responsive Styles.
 -------------------------------------------------------------------*/
 @import url('https://fonts.googleapis.com/css?family=Montserrat:300');
-@import url('https://fonts.googleapis.com/css?family=Lato');
 @import url("../fonts/hostino.css");
 /*------------------------------------------------------------------
 	1. General Styles
 -------------------------------------------------------------------*/
 html,body{
     height: 100%;
-    font-family: 'Lato', sans-serif;
 }
 *,body{
     -webkit-transition: all 0.3s ease 0.0s;
     -moz-transition: all 0.3s ease 0.0s;
     transition: all 0.3s ease 0.0s;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
+    font-weight: 300;
     -webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
     -moz-osx-font-smoothing: grayscale;
@@ -254,8 +252,6 @@ body.fullpage{
     background-color: #ffffff;
     border: 0;
     font-size: 15px;
-    font-family: 'Lato',sans-serif;
-    font-weight: 100;
     color: #0397ff;
     outline: none;
     -webkit-box-shadow: 0 6px 12px 0 rgba(18, 113, 179, 0.14);
@@ -841,17 +837,13 @@ body.fullpage{
     margin-bottom: 10px;
     padding-right: auto;
     padding-left: auto;
-    font-family: 'Montserrat',sans-serif;
     color: #4c525a;
     font-size: 30px;
     line-height: 1.41em;
-    font-weight: 300;
     text-align: center;
 }
 #main-slider .slide .text-holder{
     font-size: 26px;
-    font-weight: 100;
-    font-family: 'Lato', sans-serif;
     color: #8094a1;
     margin-bottom: 20px;
 }
