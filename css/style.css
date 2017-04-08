@@ -837,9 +837,13 @@ body.fullpage{
     max-width: 612px;
 }
 #main-slider .slide .big-text-holder{
-    font-weight: 500;
-    font-size: 40px;
-    color: #7f97ad;
+    font-size: 30px;
+    line-height: 1.41em;
+    font-weight: 400;
+    text-align: center;
+    color: #4c525a;
+    padding-right: 186px;
+    padding-left: 186px;
 }
 #main-slider .slide .text-holder{
     font-size: 26px;
