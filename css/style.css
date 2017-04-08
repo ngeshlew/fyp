@@ -133,7 +133,7 @@ body.fullpage{
 #mini-header .menu-holder ul.main-links li a.normal-link{
     color: #81cbff;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     text-decoration: none;
 }
 #mini-header .menu-holder ul.main-links li a.normal-link:hover,
@@ -151,7 +151,7 @@ body.fullpage{
 #mini-header .menu-holder ul.main-links li a.sign-button{
     color: #ffffff;
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 300;
     padding: 10px 20px;
     border-radius: 100px;
     background-color: #008ef2;
@@ -177,7 +177,7 @@ body.fullpage{
 #mini-header.signup .menu-holder ul.main-links li a.sign-button{
     color: #929292;
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 300;
     padding: 10px 20px;
     border-radius: 100px;
     background-color: #ffffff;
@@ -276,7 +276,7 @@ body.fullpage{
     background-color: #ffffff;
     border: 0;
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 300;
     color: #0397ff;
     outline: none;
     -webkit-box-shadow: 0 6px 12px 0 rgba(18, 113, 179, 0.14);
@@ -295,7 +295,7 @@ body.fullpage{
 .signin-signup-form .form-text .text-only{
     color: #abb4bc;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
 }
 .signin-signup-form .form-text input[type="checkbox"],
 .signin-signup-form .form-text input[type="radio"]{
@@ -395,7 +395,7 @@ body.fullpage{
     border: 0;
     color: #ffffff;
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 300;
     padding: 15px 30px;
     border-radius: 100px;
     background-color: #008ef2;
@@ -620,7 +620,7 @@ body.fullpage{
 .dropdown-menu > li > a{
     color: #7f888f;
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 300;
     text-decoration: none;
     display: block;
     padding: 3px 11px;
@@ -743,7 +743,7 @@ body.fullpage{
     background-color: transparent;
     font-size: 16px;
     color: #d3ddf0;
-    font-weight: 500;
+    font-weight: 300;
     text-align: center;
     outline: none;
 }
@@ -753,7 +753,7 @@ body.fullpage{
 #top-content .b-title{
     color: #6c84af;
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 300;
     letter-spacing: -1px;
     line-height: 38px;
 }
@@ -777,7 +777,7 @@ body.fullpage{
     border: 0;
     padding: 25px 45px;
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     color: #6c84af;
     outline: 0;
     -webkit-box-shadow: 0 13px 38px 0 rgba(18, 113, 179, 0.19);
@@ -804,7 +804,7 @@ body.fullpage{
     color: #ffffff;
     background-color: #0397ff;
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     outline: 0;
 }
 .domain-search-holder input[type="submit"]:hover,
@@ -845,7 +845,7 @@ body.fullpage{
     color: #4c525a;
     font-size: 30px;
     line-height: 1.41em;
-    font-weight: 300 !important;
+    font-weight: 300;
     text-align: center;
 }
 #main-slider .slide .text-holder{
@@ -860,7 +860,7 @@ body.fullpage{
     text-decoration: none;
     color: #ffffff;
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #0397ff;
     padding: 13px 40px;
     border-radius: 6px;
@@ -911,7 +911,7 @@ a.white-green-shadow-button{
     display: inline-block;
     color: #6c84af;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #ffffff;
     padding: 10px 16px;
     border-radius: 6px;
@@ -995,7 +995,7 @@ a.white-green-shadow-button:focus{
 #features .mfeature-box .mfeature-title {
     font-size: 17px;
     color: #34a8ff;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 10px;
     position: relative;
 }
@@ -1011,7 +1011,7 @@ a.light-blue-button{
     display: inline-block;
     color: #0f9aee;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #ecf8ff;
     padding: 10px 16px;
     border-radius: 6px;
@@ -1045,7 +1045,7 @@ a.light-blue-button:focus{
 #pricing .pricing-box .pricing-title{
     color: #3da8f9;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
     text-align: right;
     position: relative;
     z-index: 10;
@@ -1069,7 +1069,7 @@ a.light-blue-button:focus{
     letter-spacing: -2px;
     color: #eff3fa;
     font-size: 63px;
-    font-weight: 500;
+    font-weight: 300;
     z-index: -1;
 }
 #pricing .pricing-box .pricing-box-body{
@@ -1241,12 +1241,12 @@ a.light-blue-button:focus{
 #pricing .pricing-box .pricing-box-body .pricing-amount .price{
     color: #59b9f4;
     font-size: 22px;
-    font-weight: 500;
+    font-weight: 300;
 }
 #pricing .pricing-box .pricing-box-body .pricing-amount .duration{
     color: #c0cadd;
     font-size: 12px;
-    font-weight: 500;
+    font-weight: 300;
 }
 #pricing .pricing-box .pricing-box-body .pricing-details{
     margin-top: 30px;
@@ -1261,7 +1261,7 @@ a.light-blue-button:focus{
 #pricing .pricing-box .pricing-box-body .pricing-details ul li{
     color: #899cbf;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     margin-top: 5px;
     margin-bottom: 5px;
 }
@@ -1291,7 +1291,7 @@ a.light-blue-button:focus{
     display: inline-block;
     color: #0f9aee;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #ecf8ff;
     padding: 10px 16px;
     border-radius: 6px;
@@ -1307,7 +1307,7 @@ a.light-blue-button:focus{
 #pricing a.link-with-arrow{
     font-size: 16px;
     color: #3da8f9;
-    font-weight: 500;
+    font-weight: 300;
     cursor: pointer;
     text-decoration: none;
 }
@@ -1356,7 +1356,7 @@ a.light-blue-button:focus{
     color: #f6f9fd;
     font-size: 70px;
     letter-spacing: -2px;
-    font-weight: 500;
+    font-weight: 300;
     z-index: -1;
 }
 #apps .apps-holder{
@@ -1385,7 +1385,7 @@ a.light-blue-button:focus{
 #apps .apps-holder .app-icon-holder .app-title{
     color: #d3ddf0;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
     position: relative;
 }
 #apps .apps-holder .app-icon-holder.opened .app-title{
@@ -1444,7 +1444,7 @@ a.light-blue-button:focus{
 #apps .apps-holder .app-details div[class^="app-details"] .app-title{
     font-size: 17px;
     color: #34a8ff;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 10px;
     position: relative;
 }
@@ -1481,7 +1481,7 @@ a.light-blue-button:focus{
     color: #00cc5a;
     font-size: 70px;
     letter-spacing: -2px;
-    font-weight: 500;
+    font-weight: 300;
     z-index: -1;
 }
 #testimonials .row-title:before{
@@ -1579,7 +1579,7 @@ a.light-blue-button:focus{
 #testimonials #testimonials-slider .details-holder h4{
     color: #454545;
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     margin-top: 0;
 }
 #testimonials #testimonials-slider .details-holder h5{
@@ -1620,7 +1620,7 @@ a.light-blue-button:focus{
     color: #f6f9fd;
     font-size: 70px;
     letter-spacing: -2px;
-    font-weight: 500;
+    font-weight: 300;
     z-index: -1;
 }
 #more-features .mfeature-box{
@@ -1649,7 +1649,7 @@ a.light-blue-button:focus{
 }
 #more-features .mfeature-box .mfeature-title {
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     color: #34a8ff;
     margin-bottom: 10px;
     position: relative;
@@ -1704,7 +1704,7 @@ a.light-blue-button:focus{
 }
 #more-features-dark .mfeature-box .mfeature-title {
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     color: #ffffff;
     margin-bottom: 10px;
     position: relative;
@@ -1726,14 +1726,14 @@ a.light-blue-button:focus{
 #bluebg-info .text{
     color: #ffffff;
     font-size: 25px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 40px;
 }
 a.white-button{
     display: inline-block;
     color: #6c84af;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #ffffff;
     padding: 10px 16px;
     border-radius: 6px;
@@ -1761,14 +1761,14 @@ a.white-button:focus{
 #greybg-info .text{
     color: #0397ff;
     font-size: 25px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 40px;
 }
 a.white-less-shadow-button{
     display: inline-block;
     color: #6c84af;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #ffffff;
     padding: 10px 16px;
     border-radius: 6px;
@@ -1810,7 +1810,7 @@ a.white-less-shadow-button:focus{
     color: #ffffff;
     margin: 0;
     margin-bottom: 18px;
-    font-weight: 500;
+    font-weight: 300;
 }
 #footer ul.footer-menu{
     list-style: none;
@@ -1919,7 +1919,7 @@ a.white-less-shadow-button:focus{
     color: #f6f9fd;
     font-size: 70px;
     letter-spacing: -2px;
-    font-weight: 500;
+    font-weight: 300;
     z-index: -1;
 }
 
@@ -1937,13 +1937,13 @@ a.white-less-shadow-button:focus{
 #about .text-holder h6{
     color: #ffffff;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 40px;
 }
 #about .text-holder p{
     color: #ffffff;
     font-size: 27px;
-    font-weight: 500;
+    font-weight: 300;
 }
 #about .text-holder .hno{
     -webkit-transform: rotate(90deg);
@@ -2064,7 +2064,7 @@ a.white-less-shadow-button:focus{
 }
 #more-info .info-box .info-title {
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
     color: #34a8ff;
     margin-bottom: 10px;
     position: relative;
@@ -2083,7 +2083,7 @@ a.white-less-shadow-button:focus{
 }
 #goals #text-slider p{
     font-size: 28px;
-    font-weight: 500;
+    font-weight: 300;
     color: #ffffff;
     padding: 0 22%;
 }
@@ -2153,7 +2153,7 @@ a.white-less-shadow-button:focus{
     background-color: transparent;
     font-size: 16px;
     color: #ffffff;
-    font-weight: 500;
+    font-weight: 300;
     text-align: center;
     outline: none;
     padding: 32px;
@@ -2185,7 +2185,7 @@ a.white-less-shadow-button:focus{
     color: #f6f9fd;
     font-size: 70px;
     letter-spacing: -2px;
-    font-weight: 500;
+    font-weight: 300;
     z-index: -1;
 }
 #team .person-box{
@@ -2208,7 +2208,7 @@ a.white-less-shadow-button:focus{
 #team .person-box .person-name{
     color: #454545;
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 3px;
 }
 #team .person-box .person-title{
@@ -2271,7 +2271,7 @@ a.white-less-shadow-button:focus{
 #recent-article .article-summary .article-title a{
     color: #ffffff;
     font-size: 24px;
-    font-weight: 500;
+    font-weight: 300;
     text-decoration: none;
 }
 #recent-article .article-summary .article-title:after{
@@ -2289,7 +2289,7 @@ a.white-less-shadow-button:focus{
 #recent-article .article-summary .article-date{
     color: #ffffff;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 30px;
 }
 #recent-article .article-summary .article-text{
@@ -2307,7 +2307,7 @@ a.white-less-shadow-button:focus{
     display: inline-block;
     color: #6c84af;
     font-size: 14px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #ffffff;
     padding: 10px 16px;
     border-radius: 6px;
@@ -2376,7 +2376,7 @@ a.white-less-shadow-button:focus{
 #articles .article-summary .article-title a{
     color: #34a8ff;
     font-size: 16px;
-    font-weight: 500;
+    font-weight: 300;
     text-decoration: none;
 }
 #articles .article-summary .article-title:after{
@@ -2395,7 +2395,7 @@ a.white-less-shadow-button:focus{
 #articles .article-summary .article-date{
     color: #d5deed;
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 300;
     margin-bottom: 10px;
     text-align: left;
 }
@@ -2404,7 +2404,7 @@ a.white-less-shadow-button:focus{
     font-size: 14px;
     line-height: 22px;
     margin-bottom: 10px;
-    font-weight: 500;
+    font-weight: 300;
     text-align: left;
 }
 
@@ -2419,7 +2419,7 @@ a.white-less-shadow-button:focus{
     display: inline-block;
     color: #0f9aee;
     font-size: 13px;
-    font-weight: 500;
+    font-weight: 300;
     background-color: #f5fbfe;
     padding: 8px 15px;
     border-radius: 6px;
@@ -2452,7 +2452,7 @@ a.white-less-shadow-button:focus{
     padding: 5px 10px;
     color: #0397ff;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 300;
     -webkit-box-shadow: 0px 3px 11px 0px rgba(3, 151, 255, 0.38);
     -moz-box-shadow: 0px 3px 11px 0px rgba(3, 151, 255, 0.38);
     box-shadow: 0px 3px 11px 0px rgba(3, 151, 255, 0.38);
@@ -2477,7 +2477,7 @@ a.white-less-shadow-button:focus{
 #info-text .text{
     color: #34a8ff;
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     text-align: center;
     position: relative;
 }
@@ -2542,7 +2542,7 @@ a.white-less-shadow-button:focus{
 }
 #contact-info .info-box .info-title{
     color: #0397ff;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 19px;
     margin-bottom: 20px;
 }
@@ -2636,7 +2636,7 @@ a.white-less-shadow-button:focus{
 #domainsearch .b-title{
     color: #6c84af;
     font-size: 30px;
-    font-weight: 500;
+    font-weight: 300;
     letter-spacing: -1px;
     line-height: 38px;
 }
@@ -2663,7 +2663,7 @@ a.white-less-shadow-button:focus{
 }
 #domain-pricing ul.domain-list li{
     font-size: 17px;
-    font-weight: 500;
+    font-weight: 300;
     color: #ffffff;
     padding: 5px 25px;
     margin-top: 13px;
@@ -2736,7 +2736,7 @@ a.white-less-shadow-button:focus{
     text-decoration: none;
 }
 #post-content .post .post-entry a .post-title{
-    font-weight: 500;
+    font-weight: 300;
     font-size: 35px;
     line-height: 43px;
     color: #5f6576;
@@ -2784,7 +2784,7 @@ a.white-less-shadow-button:focus{
     margin-right: 10px;
 }
 #post-content #post-body .post .post-title{
-    font-weight: 500;
+    font-weight: 300;
     font-size: 24px;
     color: #5f6576;
     margin-bottom: 20px;
@@ -2812,7 +2812,7 @@ a.white-less-shadow-button:focus{
     margin-top: 0;
     margin-bottom: 20px;
     font-size: 18px;
-    font-weight: 500;
+    font-weight: 300;
     padding-bottom: 10px;
     border-bottom: 1px solid #e1e1e1;
     color: #5f6576;
@@ -2842,7 +2842,7 @@ a.white-less-shadow-button:focus{
     color: #3c99ef;
     padding-top: 3px;
     font-size: 12px;
-    font-weight: 500;
+    font-weight: 300;
     -webkit-box-shadow: 0px 3px 11px 0px rgba(3, 151, 255, 0.38);
     -moz-box-shadow: 0px 3px 11px 0px rgba(3, 151, 255, 0.38);
     box-shadow: 0px 3px 11px 0px rgba(3, 151, 255, 0.38);
@@ -2873,7 +2873,7 @@ a.white-less-shadow-button:focus{
     display: block;
 }
 #post-content #sidebar #popular-posts.widget .item .info .title a{
-    font-weight: 500;
+    font-weight: 300;
     font-size: 14px;
     color: #5f6576;
     text-decoration: none;
@@ -2895,7 +2895,7 @@ a.white-less-shadow-button:focus{
     margin-bottom: 7px;
     line-height: 1;
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 300;
 }
 #post-content #sidebar #tags.widget a.tag-link:hover,
 #post-content #sidebar #tags.widget a.tag-link:focus{
@@ -2923,7 +2923,7 @@ a.white-less-shadow-button:focus{
 #page-content h4{
     font-size: 17px;
     color: #34a8ff;
-    font-weight: 500;
+    font-weight: 300;
 }
 #page-content p{
     font-size: 15px;
