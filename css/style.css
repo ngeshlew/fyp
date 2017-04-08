@@ -1720,15 +1720,17 @@ a.light-blue-button:focus{
 -------------------------------------------------------------------*/
 #bluebg-info{
     background-color: #0397ff;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding: 65px 40px;
     text-align: center;
 }
 #bluebg-info .text{
-    color: #ffffff;
-    font-size: 25px;
-    font-weight: 300;
-    margin-bottom: 40px;
+    margin-bottom: 11px;
+    padding-right: 80px;
+    padding-left: 80px;
+    color: #fff;
+    font-size: 24px;
+    line-height: 38px;
+    text-align: center;
 }
 a.white-button{
     display: inline-block;
