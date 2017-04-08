@@ -1795,11 +1795,18 @@ a.white-less-shadow-button:focus{
 #footer{
     background-color: #00d85f;
     color: #f6f6f6;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 19px;
+    padding-bottom: 19px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 11px;
+    line-height: 18px;
+    font-weight: 400;
 }
 #footer .footer-menu-holder{
+    padding-top: 19px;
+    padding-bottom: 19px;
     display: inline-block;
     text-align: left;
     min-width: 130px;
