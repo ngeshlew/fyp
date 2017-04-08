@@ -1015,6 +1015,8 @@ a.white-green-shadow-button:focus{
     width: 100%;
 }
 #features .mfeature-box .mfeature-title {
+    font-family: 'Proximanova-regular',sans-serif;
+    font-weight: 400;
     font-size: 26px;
     line-height: 36px;
     color: #34a8ff;
@@ -1026,7 +1028,7 @@ a.white-green-shadow-button:focus{
     margin-bottom: 20px;
     font-size: 18px;
     line-height: 29px;
-    color: #899cbf;
+    color: #4c525a;
 }
 
 a.light-blue-button{
@@ -1283,7 +1285,7 @@ a.light-blue-button:focus{
     text-align: left;
 }
 #pricing .pricing-box .pricing-box-body .pricing-details ul li{
-    color: #899cbf;
+    color: #4c525a;
     font-size: 14px;
     font-weight: 300;
     margin-top: 5px;
@@ -1485,7 +1487,7 @@ a.light-blue-button:focus{
     margin-bottom: 20px;
     font-size: 18px;
     line-height: 29px;
-    color: #899cbf;
+    color: #4c525a;
 }
 
 /*------------------------------------------------------------------
@@ -1834,8 +1836,8 @@ a.white-less-shadow-button:focus{
 	11. Footer Section Styles
 -------------------------------------------------------------------*/
 #footer{
-    background-color: #34a8ff;
-    color: #f6f6f6;
+    background-color: #353736;
+    color: #adadad;
     padding-top: 19px;
     padding-bottom: 19px;
     text-align: center;
