@@ -138,7 +138,7 @@ body.fullpage{
     text-align: right;
 }
 #mini-header.signup .menu-holder{
-    background-color: #00d85f;
+    background-color: #34a8ff;
 }
 #mini-header .menu-holder ul.main-links{
     list-style: none;
@@ -450,7 +450,7 @@ body.fullpage{
     padding-top: 60px;
 }
 #form-section.signup .info-slider-holder{
-    background-color: #00d85f;
+    background-color: #34a8ff;
 }
 #form-section .info-slider-holder .img-text-slider .slick-slide{
     text-align: center;
@@ -562,7 +562,7 @@ body.fullpage{
 }
 .navbar-default .navbar-nav>li>a.chat-button{
     padding: 6px 12px;
-    background-color: #00d85f;
+    background-color: #34a8ff;
     border-radius: 6px;
     color: #ffffff;
     opacity: 1;
@@ -647,9 +647,9 @@ body.fullpage{
 }
 .dropdown-menu > li > a:focus, 
 .dropdown-menu > li > a:hover{
-    color: #6c84af;
+    color: #4c525a;
     background-color: #f9fbff;
-    /*text-shadow: 0px 0px 2px #6c84af;*/
+    /*text-shadow: 0px 0px 2px #4c525a;*/
 }
 .dropdown:hover .dropdown-menu ,
 .dropdown:focus .dropdown-menu {
@@ -770,7 +770,7 @@ body.fullpage{
     color: #34a8ff;
 }
 #top-content .b-title{
-    color: #6c84af;
+    color: #4c525a;
     font-size: 30px;
     font-weight: 300;
     letter-spacing: -1px;
@@ -797,7 +797,7 @@ body.fullpage{
     padding: 25px 45px;
     font-size: 17px;
     font-weight: 300;
-    color: #6c84af;
+    color: #4c525a;
     outline: 0;
     -webkit-box-shadow: 0 13px 38px 0 rgba(18, 113, 179, 0.19);
     -moz-box-shadow: 0 13px 38px 0 rgba(18, 113, 179, 0.19);
@@ -896,7 +896,7 @@ body.fullpage{
 	4. Info Section Styles
 -------------------------------------------------------------------*/
 #info{
-    background-color: #00d85f;
+    background-color: #34a8ff;
     padding-top: 60px;
     padding-bottom: 60px;
     text-align: center;
@@ -929,7 +929,7 @@ body.fullpage{
 }
 a.white-green-shadow-button{
     display: inline-block;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 14px;
     font-weight: 300;
     background-color: #ffffff;
@@ -954,7 +954,7 @@ a.white-green-shadow-button:focus{
 	5. Features Section Styles
 -------------------------------------------------------------------*/
 #features{
-    background-color: #ffffff;
+    background-color: #f6f9fb;
     padding-top: 60px;
     padding-bottom: 60px;
     text-align: center;
@@ -962,7 +962,7 @@ a.white-green-shadow-button:focus{
 #features .row-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 26px;
     line-height: 36px;
     margin-bottom: 60px;
@@ -1056,7 +1056,7 @@ a.light-blue-button:focus{
 #pricing .row-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 26px;
     line-height: 36px;
     margin-bottom: 60px;
@@ -1160,7 +1160,7 @@ a.light-blue-button:focus{
     background-color: #34a8ff;
 }
 #pricing .pricing-box.pr-color2 .pricing-box-body:before{
-    background-color: #00d85f;
+    background-color: #34a8ff;
 }
 #pricing .pricing-box.pr-color3 .pricing-box-body:before{
     background-color: #a8b4c9;
@@ -1173,7 +1173,7 @@ a.light-blue-button:focus{
     width: 22px;
     height: 80px;
     border-radius: 50px;
-    background-color: #00d85f;
+    background-color: #34a8ff;
     z-index: 1000;
     -webkit-transition: all 0.3s ease;
     -moz-transition: all 0.3s ease;
@@ -1190,7 +1190,7 @@ a.light-blue-button:focus{
     top: -3px;
     width: 11px;
     height: 80px;
-    background-color: #00d85f;
+    background-color: #34a8ff;
     -webkit-transform: skewY(-45deg);
     -moz-transform: skewY(-45deg);
     transform: skewY(-45deg);
@@ -1210,7 +1210,7 @@ a.light-blue-button:focus{
     top: -3px;
     width: 11px;
     height: 80px;
-    background-color: #00d85f;
+    background-color: #34a8ff;
     -webkit-transform: skewY(45deg);
     -moz-transform: skewY(45deg);
     transform: skewY(45deg);
@@ -1255,7 +1255,7 @@ a.light-blue-button:focus{
 #pricing .pricing-box.pr-color2.recommended .pricing-box-body .pricing-amount:before,
 #pricing .pricing-box.pr-color2.recommended .pricing-box-body .pricing-amount:after,
 #pricing .pricing-box.pr-color2.recommended .pricing-box-body .pricing-details:before{
-    background-color: #00d85f;
+    background-color: #34a8ff;
 }
 #pricing .pricing-box.pr-color3.recommended .pricing-box-body .pricing-amount:before,
 #pricing .pricing-box.pr-color3.recommended .pricing-box-body .pricing-amount:after,
@@ -1367,7 +1367,7 @@ a.light-blue-button:focus{
 #apps .row-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 26px;
     line-height: 36px;
     margin-bottom: 60px;
@@ -1492,7 +1492,7 @@ a.light-blue-button:focus{
 	8. Testimonials Section Styles
 -------------------------------------------------------------------*/
 #testimonials{
-    background-color: #00d85f;
+    background-color: #34a8ff;
     padding-top: 80px;
     padding-bottom: 60px;
     text-align: center;
@@ -1642,7 +1642,7 @@ a.light-blue-button:focus{
 #more-features .row-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 26px;
     line-height: 36px;
     margin-bottom: 60px;
@@ -1775,7 +1775,7 @@ a.light-blue-button:focus{
 }
 a.white-button{
     display: inline-block;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 14px;
     font-weight: 300;
     background-color: #ffffff;
@@ -1810,7 +1810,7 @@ a.white-button:focus{
 }
 a.white-less-shadow-button{
     display: inline-block;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 14px;
     font-weight: 300;
     background-color: #ffffff;
@@ -1834,7 +1834,7 @@ a.white-less-shadow-button:focus{
 	11. Footer Section Styles
 -------------------------------------------------------------------*/
 #footer{
-    background-color: #00d85f;
+    background-color: #34a8ff;
     color: #f6f6f6;
     padding-top: 19px;
     padding-bottom: 19px;
@@ -1958,7 +1958,7 @@ a.white-less-shadow-button:focus{
 #page-head .page-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 25px;
     
     position: relative;
@@ -2077,7 +2077,7 @@ a.white-less-shadow-button:focus{
 #more-info .row-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 26px;
     line-height: 36px;
     position: relative;
@@ -2133,7 +2133,7 @@ a.white-less-shadow-button:focus{
 }
 
 #goals{
-    background-color: #00d85f;
+    background-color: #34a8ff;
     padding-top: 85px;
     padding-bottom: 150px;
     text-align: center;
@@ -2229,7 +2229,7 @@ a.white-less-shadow-button:focus{
 #team .row-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 26px;
     line-height: 36px;
     margin-bottom: 60px;
@@ -2370,7 +2370,7 @@ a.white-less-shadow-button:focus{
 }
 #recent-article .article-summary .article-links .readmore-holder a.readmore-button{
     display: inline-block;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 14px;
     font-weight: 300;
     background-color: #ffffff;
@@ -2415,7 +2415,7 @@ a.white-less-shadow-button:focus{
 #articles .row-title {
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 26px;
     line-height: 36px;
     margin-bottom: 30px;
@@ -2637,10 +2637,10 @@ a.white-less-shadow-button:focus{
     box-shadow: 0 12px 32px 0 rgba(3, 151, 255, 0.22);
 }
 #contact-info .info-box.green-title .info-title{
-    color: #00d85f;
+    color: #34a8ff;
 }
 #contact-info .info-box.green-title .info-title:before{
-    background-color: #00d85f;
+    background-color: #34a8ff;
     -webkit-box-shadow: 0 12px 32px 0 rgba(0, 216, 95, 0.22);
     -moz-box-shadow: 0 12px 32px 0 rgba(0, 216, 95, 0.22);
     box-shadow: 0 12px 32px 0 rgba(0, 216, 95, 0.22);
@@ -2709,7 +2709,7 @@ a.white-less-shadow-button:focus{
 #domainsearch .b-title{
     font-family: 'Proximanova-regular', sans-serif;
     font-weight: 400;
-    color: #6c84af;
+    color: #4c525a;
     font-size: 30px;
     letter-spacing: -1px;
     line-height: 38px;
@@ -2787,7 +2787,7 @@ a.white-less-shadow-button:focus{
     text-align: center;
 }
 #info-whitebg .info-text{
-    color: #00d85f;
+    color: #34a8ff;
     font-size: 19px;
     padding-left: 22%;
     padding-right: 22%;
@@ -3206,13 +3206,13 @@ a.white-less-shadow-button:focus{
         font-size: 25px;
         left: -10px;
         top: 0px;
-        color: #00d85f;
+        color: #34a8ff;
     }
     #testimonials #testimonials-slider .slick-next:after {
         font-size: 25px;
         right: -10px;
         top: 0px;
-        color: #00d85f;
+        color: #34a8ff;
     }
     #footer .footer-menu-holder {
         display: block;
@@ -3356,13 +3356,13 @@ a.white-less-shadow-button:focus{
         font-size: 25px;
         left: -10px;
         top: 0px;
-        color: #00d85f;
+        color: #34a8ff;
     }
     #testimonials #testimonials-slider .slick-next:after {
         font-size: 25px;
         right: -10px;
         top: 0px;
-        color: #00d85f;
+        color: #34a8ff;
     }
     #footer .footer-menu-holder {
         display: block;
